@@ -279,3 +279,46 @@ box-sizing: border-box;
 color: #fafafa;
 
 }
+
+footer {
+
+    height: 150px;
+}
+
+.social-netowrks {
+
+
+    text-align: center;
+}
+
+.social-netowrks > li {
+
+display: inline;
+}
+
+.social-netowrks i {
+
+
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+/** gallery **/
+
+#photos {
+
+clear: both;
+line-height: 0;
+column-count: 4;
+column-gap: 0;
+
+}
+
+
+#photos > img {
+
+   width: 100%;
+    
+    }
